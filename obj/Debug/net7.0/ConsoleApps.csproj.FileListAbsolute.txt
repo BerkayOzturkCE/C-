@@ -1,0 +1,15 @@
+C:\Users\brozt\Desktop\VsData\ConsoleApps\app1\bin\Debug\net7.0\ConsoleApps.exe
+C:\Users\brozt\Desktop\VsData\ConsoleApps\app1\bin\Debug\net7.0\ConsoleApps.deps.json
+C:\Users\brozt\Desktop\VsData\ConsoleApps\app1\bin\Debug\net7.0\ConsoleApps.runtimeconfig.json
+C:\Users\brozt\Desktop\VsData\ConsoleApps\app1\bin\Debug\net7.0\ConsoleApps.dll
+C:\Users\brozt\Desktop\VsData\ConsoleApps\app1\bin\Debug\net7.0\ConsoleApps.pdb
+C:\Users\brozt\Desktop\VsData\ConsoleApps\app1\obj\Debug\net7.0\ConsoleApps.csproj.AssemblyReference.cache
+C:\Users\brozt\Desktop\VsData\ConsoleApps\app1\obj\Debug\net7.0\ConsoleApps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brozt\Desktop\VsData\ConsoleApps\app1\obj\Debug\net7.0\ConsoleApps.AssemblyInfoInputs.cache
+C:\Users\brozt\Desktop\VsData\ConsoleApps\app1\obj\Debug\net7.0\ConsoleApps.AssemblyInfo.cs
+C:\Users\brozt\Desktop\VsData\ConsoleApps\app1\obj\Debug\net7.0\ConsoleApps.csproj.CoreCompileInputs.cache
+C:\Users\brozt\Desktop\VsData\ConsoleApps\app1\obj\Debug\net7.0\ConsoleApps.dll
+C:\Users\brozt\Desktop\VsData\ConsoleApps\app1\obj\Debug\net7.0\refint\ConsoleApps.dll
+C:\Users\brozt\Desktop\VsData\ConsoleApps\app1\obj\Debug\net7.0\ConsoleApps.pdb
+C:\Users\brozt\Desktop\VsData\ConsoleApps\app1\obj\Debug\net7.0\ConsoleApps.genruntimeconfig.cache
+C:\Users\brozt\Desktop\VsData\ConsoleApps\app1\obj\Debug\net7.0\ref\ConsoleApps.dll
