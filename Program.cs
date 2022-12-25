@@ -11,3 +11,15 @@
 //Console.WriteLine("Çarpma: "+ (x*y).ToString() );
 //Console.WriteLine("Mod//: "+ (z%x).ToString() );
 //Console.WriteLine("Böl//me "+ (z/x).ToString() );
+
+//ödev-3
+byte a=5;
+sbyte b=8;
+short c=9;
+
+int d=a+b*c;
+Console.WriteLine(d);
+string e=d.ToString();
+Console.WriteLine(e);
+string f="1234";
+Console.WriteLine(int.Parse(f));
