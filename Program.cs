@@ -24,20 +24,26 @@
 //Console.WriteLine(int.Parse(f));
 
 //ödev-4
-try
-{
-    Console.WriteLine("Pozitif bir sayı girin");
-    int a=int.Parse(Console.ReadLine());
-    if(a<0){
-        throw new InvalidOperationException("Sayi negatif");
-    }else{
-        Console.WriteLine("sayi: "+a);
-    }
-}
-catch (Exception ex)
-{
-    
-    Console.WriteLine(ex.Message);
-}finally{
-    Console.WriteLine("işlem tamamlandı");
-}
+//try
+//{
+//    Console.WriteLine("Pozitif bir sayı girin");
+//    int a=int.Parse(Console.ReadLine());
+//    if(a<0){
+//        throw new InvalidOperationException("Sayi negatif");
+//    }else{
+//        Console.WriteLine("sayi: "+a);
+//    }
+//}
+//catch (Exception ex)
+//{
+//    
+//    Console.WriteLine(ex.Message);
+//}finally{
+//    Console.WriteLine("işlem tamamlandı");
+//}
+
+
+
+
+
+
