@@ -13,3 +13,17 @@ C:\Users\brozt\Desktop\VsData\ConsoleApps\app1\obj\Debug\net7.0\refint\ConsoleAp
 C:\Users\brozt\Desktop\VsData\ConsoleApps\app1\obj\Debug\net7.0\ConsoleApps.pdb
 C:\Users\brozt\Desktop\VsData\ConsoleApps\app1\obj\Debug\net7.0\ConsoleApps.genruntimeconfig.cache
 C:\Users\brozt\Desktop\VsData\ConsoleApps\app1\obj\Debug\net7.0\ref\ConsoleApps.dll
+C:\Users\brozt\Desktop\VsData\ConsoleApps\app1\bin\Debug\net7.0\BarcodeStandard.dll
+C:\Users\brozt\Desktop\VsData\ConsoleApps\app1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\brozt\Desktop\VsData\ConsoleApps\app1\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\brozt\Desktop\VsData\ConsoleApps\app1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\brozt\Desktop\VsData\ConsoleApps\app1\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\brozt\Desktop\VsData\ConsoleApps\app1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\brozt\Desktop\VsData\ConsoleApps\app1\obj\Debug\net7.0\ConsoleApps.csproj.CopyComplete
+C:\Users\brozt\Desktop\VsData\ConsoleApps\app1\bin\Debug\net7.0\IronBarCode.dll
+C:\Users\brozt\Desktop\VsData\ConsoleApps\app1\bin\Debug\net7.0\SixLabors.Fonts.dll
+C:\Users\brozt\Desktop\VsData\ConsoleApps\app1\bin\Debug\net7.0\SixLabors.ImageSharp.Drawing.dll
+C:\Users\brozt\Desktop\VsData\ConsoleApps\app1\bin\Debug\net7.0\BitMiracle.LibTiff.NET.dll
+C:\Users\brozt\Desktop\VsData\ConsoleApps\app1\bin\Debug\net7.0\IronSoftware.Drawing.Common.dll
+C:\Users\brozt\Desktop\VsData\ConsoleApps\app1\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\brozt\Desktop\VsData\ConsoleApps\app1\bin\Debug\net7.0\SixLabors.ImageSharp.dll
