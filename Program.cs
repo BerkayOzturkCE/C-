@@ -42,8 +42,3 @@
 //    Console.WriteLine("işlem tamamlandı");
 //}
 
-
-
-
-
- 
