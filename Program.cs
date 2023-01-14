@@ -42,3 +42,4 @@
 //    Console.WriteLine("işlem tamamlandı");
 //}
 
+App1.Vote.VoteApp();
