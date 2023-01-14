@@ -1,0 +1,5 @@
+C:\Users\brozt\Desktop\VsData\ConsoleApps\app1\csharpTrain\obj\Debug\net7.0\csharpTrain.csproj.AssemblyReference.cache
+C:\Users\brozt\Desktop\VsData\ConsoleApps\app1\csharpTrain\obj\Debug\net7.0\csharpTrain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brozt\Desktop\VsData\ConsoleApps\app1\csharpTrain\obj\Debug\net7.0\csharpTrain.AssemblyInfoInputs.cache
+C:\Users\brozt\Desktop\VsData\ConsoleApps\app1\csharpTrain\obj\Debug\net7.0\csharpTrain.AssemblyInfo.cs
+C:\Users\brozt\Desktop\VsData\ConsoleApps\app1\csharpTrain\obj\Debug\net7.0\csharpTrain.csproj.CoreCompileInputs.cache
