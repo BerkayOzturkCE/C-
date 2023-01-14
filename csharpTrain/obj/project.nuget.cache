@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "tLqw0Q+z5pRQc8+WH9fRCRVHsKWZdcKLv+oYafeERX3ZQRl2V0RWoPkXDIHsDnUslThY+kWdCT6cYsTPMLEoEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brozt\\Desktop\\VsData\\ConsoleApps\\app1\\csharpTrain\\ConsoleApps.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brozt\\.nuget\\packages\\barcodelib\\2.4.0\\barcodelib.2.4.0.nupkg.sha512",
+    "C:\\Users\\brozt\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\brozt\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\brozt\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512",
+    "C:\\Users\\brozt\\.nuget\\packages\\zxing.net\\0.16.7\\zxing.net.0.16.7.nupkg.sha512",
+    "C:\\Users\\brozt\\.nuget\\packages\\zxing.net.bindings.windows.compatibility\\0.16.10\\zxing.net.bindings.windows.compatibility.0.16.10.nupkg.sha512"
+  ],
+  "logs": []
+}
