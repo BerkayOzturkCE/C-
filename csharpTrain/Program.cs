@@ -42,4 +42,4 @@
 //    Console.WriteLine("işlem tamamlandı");
 //}
 
-App1.barcodes.barcodeApp();
+TelRehberi.TelRehberi.RehberApp();
