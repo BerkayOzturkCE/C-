@@ -49,6 +49,7 @@ namespace Algoritma1
                 Console.Write($"{array[i]}    ");
             }
         }
+
         public static void problem3()
         {
             Console.Write("Lütfen pozitif bir sayı giriniz:");
@@ -59,21 +60,24 @@ namespace Algoritma1
             {
                 Console.Write($"{i}. kelimeyi giriniz:");
                 var input = Console.ReadLine();
-              
-                    kelimeler[sayac] = input;
-                    sayac++;
-                  
-                
+
+                kelimeler[sayac] = input;
+                sayac++;
+
+
             }
 
-            for (int i = sayac-1; i >=0; i--)
+            for (int i = sayac - 1; i >= 0; i--)
             {
                 Console.Write($"{kelimeler[i]}    ");
             }
         }
         public static void problem4()
         {
-
+            Console.Write($"Cümleyi giriniz:");
+            var input = Console.ReadLine();
+            var words=input.Split(" ");
+            Console.Write($"Toplam kelime sayısı: {words.Count()}   Toplam harf sayısı: {input.Count()}");
         }
 
     }
