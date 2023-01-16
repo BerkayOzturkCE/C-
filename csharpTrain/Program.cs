@@ -42,4 +42,4 @@
 //    Console.WriteLine("işlem tamamlandı");
 //}
 
-Algoritma1.Algoritma1.problem2();
+Algoritma1.Algoritma1.problem3();
