@@ -42,4 +42,4 @@
 //    Console.WriteLine("işlem tamamlandı");
 //}
 
-TelRehberi.TelRehberi.RehberApp();
+Algoritma1.Algoritma1.problem1();
