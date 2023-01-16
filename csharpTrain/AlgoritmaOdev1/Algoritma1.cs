@@ -37,7 +37,7 @@ namespace Algoritma1
             {
                 Console.Write($"{i}. sayıyı giriniz:");
                 var input = Convert.ToInt32(Console.ReadLine());
-                if (input == m||input%m==0)
+                if (input%m==0)
                 {
                     array[sayac] = input;
                     sayac++;
