@@ -42,4 +42,4 @@
 //    Console.WriteLine("işlem tamamlandı");
 //}
 
-Algoritma1.Algoritma1.problem4();
+ToDoListApplication.ToDoListApplication.ToDoListMain();
